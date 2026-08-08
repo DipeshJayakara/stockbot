@@ -1,4 +1,4 @@
-# 📈 StockBot — AI-Powered Equity Research Assistant
+# 📈 LLM for Market Success: Equity and Stock Market
 
 StockBot is an intelligent equity research assistant that uses **Large
 Language Models (LLMs), Natural Language Processing (NLP), semantic search,
